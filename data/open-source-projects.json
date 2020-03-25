@@ -20,7 +20,8 @@
         "episphere/corona",
         "marlon360/rki-covid-api",
         "lkd70/coronapi",
-        "ChrisMichaelPerezSantiago/covid19"
+        "ChrisMichaelPerezSantiago/covid19",
+        "AlaeddineMessadi/COVID-19-REPORT-API"
       ]
     },
     {
@@ -47,7 +48,9 @@
         "globalcitizen/2019-wuhan-coronavirus-data",
         "arnoudbuzing/wolfram-coronavirus",
         "opencovid19-fr/data",
-        "covid19india/covid19india"
+        "covid19india/covid19india",
+        "kalisio/covid-19",
+        "OssamaRafique/Corona-Statistics-And-Tracker-Dashboard-Angular-9"
       ]
     },
     {
@@ -58,7 +61,8 @@
         "pennsignals/chime",
         "daveselinger/covid-19-hackathon",
         "midas-network/COVID-19",
-        "neherlab/covid19_scenarios"
+        "neherlab/covid19_scenarios",
+        "Mythobeast/epidemicmodels"
       ]
     },
     {
@@ -102,7 +106,9 @@
         "julianschiavo/Covidcheck",
         "yohix/corona",
         "duarteocarmo/coronabar",
-        "cakebatterandsprinkles/whereiscovid"
+        "cakebatterandsprinkles/whereiscovid",
+        "YogaSakti/CoronaNotifier",
+        "bluebillxp/android-covid19-reportviewer"
       ]
     },
     {
@@ -112,7 +118,8 @@
         "koushikkothagal/coronavirus-tracker",
         "eebrown/data2019nCoV",
         "pdtyreus/coronavirus-ds",
-        "eebrown/data2019nCoV"
+        "eebrown/data2019nCoV",
+        "benhur07b/covid19-load-qgis"
       ]
     },
     {
@@ -127,7 +134,8 @@
     {
       "category": "Hardware",
       "repositories": [
-        "jcl5m1/ventilator"
+        "jcl5m1/ventilator",
+        "ProtofyTeam/OxyGEN"
       ]
     }
   ]

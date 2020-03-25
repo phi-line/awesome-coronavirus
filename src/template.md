@@ -9,7 +9,7 @@
 	<h2>Sponsors</h2>
 	<div align="left">
 		<a href="https://starhub.soroushapps.com"><img src="https://i.imgur.com/H5SELmm.png" width="270px"></a>
-		<a href="#you-can-become-a-sponsor-of-awesome-coronavirus-and-be-placed-at-the-top-of-this-page-under-the-logo-for-this-offer-please-contact-me-with-the-following-email-address"><img src="https://i.imgur.com/hkIMxlF.png" width="170px"></a>
+		<a href="#s1996chgmailcom"><img src="https://i.imgur.com/hkIMxlF.png" width="170px"></a>
 	</div>
 	<br>
         <br>
@@ -110,7 +110,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 
 ## Donation and Sponsoring
 
-### Donate me with buying me some vitamins to boost my immune system during the coronavirus outbreak, I would maintain this repository if I was alive :) 
+Donate me with buying me some vitamins to boost my immune system during the coronavirus outbreak, I would maintain this repository if I was alive :) 
 
 #### Bitcoin
 <img src="https://i.imgur.com/9IgberJ.png" width="120" >
@@ -122,7 +122,9 @@ If you are a developer, you may also be able to contribute to some of these proj
 	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
-### You can become a sponsor of `awesome-coronavirus` and be placed at the top of this page under the logo. For this offer please contact me with the following Email address:
+<hr>
+
+You can become a sponsor of `awesome-coronavirus` and be placed at the top of this page under the logo. For this offer please contact me with the following Email address:
 #### `s1996ch@gmail.com`
 
 ## Contribution
